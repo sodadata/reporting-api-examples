@@ -1,0 +1,7 @@
+httpx
+pandas
+sqlalchemy
+psycopg2
+snowflake-sqlalchemy
+snowflake-connector-python[pandas]
+python-decouple
