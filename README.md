@@ -4,4 +4,4 @@ In this repository you will be able to find code snippets and scripts companions
 
 Each use-case will live in its own folder where you can find more information.
 
-The blog series can be accessed at: INSERT URL
+The blog series can be accessed at: https://docs.soda.io/api-docs/reporting-api-to-overview-dashboards.html
